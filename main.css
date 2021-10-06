@@ -1,4 +1,4 @@
-html {
+'html {
     background-color: #181a1b !important;
 }
 html, body, input, textarea, select, button {
@@ -7159,3 +7159,4 @@ gr-main-header {
     background-color: #0f3a48 !important;
 }
 embed[type="application/pdf"] { filter: invert(100%) contrast(90%); }
+'
